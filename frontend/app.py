@@ -11,7 +11,7 @@ from auth import init_db, register, login
 init_db()
 
 
-API_URL = "http://127.0.0.1:8000/analyze"
+API_URL = "https://ai-resume-intelligence-system-xb47.onrender.com/analyze"
 
 
 # -----------------------------
