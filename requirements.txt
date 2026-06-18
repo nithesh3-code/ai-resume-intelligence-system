@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+streamlit
+fpdf
+PyPDF2
+scikit-learn
+numpy
+sqlalchemy
+requests
